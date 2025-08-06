@@ -2,8 +2,6 @@
 
 ## General Info
 
-### Sprinkler controller: Rainbird PC-506
-
 ### Zones
 
 1. Front main 3 (2 impact, 1 rotary)
@@ -15,7 +13,7 @@
 
 ### Part Numbers
 
-- 
+- Sprinkler controller: Rainbird PC-506
 
 ### Current Setup (Summer '25)
 
