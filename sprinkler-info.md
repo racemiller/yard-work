@@ -31,7 +31,7 @@
 - Zone 5: 45 minutes every 3 days
 
 ## Summer Settings
-*Starting at 4am, and 5am for zone 1's second round*
+*Starting at 2am, and 4am for zone 1's second round*
 
 - Zone 1: 2 sets of 45 minutes every 2 days (cycle-soak)
 - Zone 3: 60 minutes every 2 days
