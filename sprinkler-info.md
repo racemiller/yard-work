@@ -11,6 +11,10 @@
 5. Back East fence (2 rotary)
 6. (OFF) Not used
 
+Also using a manual sprinkler in the backyard to cover the area West of the trailer. I don't think it really needs to run in the spring/fall, but in the summer I've been running it every night at 11pm for one hour. That's been working pretty well for that area.
+
+There's another manual sprinkler in the front yard that helps with the grass by the front garden bed. I've just been using it on an as-needed basis, but running it for about 30 minutes at a time.
+
 ### Part Numbers
 
 - Sprinkler controller: Rainbird PC-506
@@ -44,4 +48,5 @@
 - Zone 1: 45 minutes every 3 days
 - Zone 3: 45 minutes every 3 days
 - Zone 4: 45 minutes every 3 days
+
 - Zone 5: 45 minutes every 3 days
