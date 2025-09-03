@@ -8,3 +8,6 @@
 ## Notes
 ### Weeds
 The nasty creeping weeds you've been fighting are called _spurge_ weeds. The internet says the best way to handle them is with a pre-emergent before temps get above 55­°F, such as [Prodiamine](https://diypestcontrol.com/prodiamine-65-wdg). This stuff also helps with crabgrass and a bunch of other annual weeds & grasses.
+![Small spurge weed][def]
+
+[def]: documents/images/20250825_170611.jpg
