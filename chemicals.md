@@ -11,7 +11,7 @@ I stopped using Aptive early summer 2025. Luckily so far I haven't had any out o
 Since this is my first year without Aptive, I don't know what the fall/winter insect situation is going to look like.
 
 I pay Mosquito Hero to spray our grass and trees for mosquitos, and they say their stuff works well on box elder bugs as well as anything with an exoskeleton. So far so good.
-Mosquito Hero usues Talstar P for pest control.
+Mosquito Hero usues [Talstar P](https://diypestcontrol.com/talstar-pro-one-insecticide) for pest control. Its active ingredient is Bifenthrin.
 
 ## Herbicides
 
@@ -21,3 +21,4 @@ Still paying WeedMan to take care of this for me. They do a good job. It looks l
 
 
 Still using WeedMan, and this is the least researched part of my lawn care routine. Right now I believe they do fertilizer twice a year, plus pre-emergent in early spring. They also do a double-pass aeration and overseeding in the fall which seems to be helping.
+
