@@ -15,11 +15,13 @@ Also using a manual sprinkler in the backyard to cover the area West of the trai
 
 There's another manual sprinkler in the front yard that helps with the grass by the front garden bed. I've just been using it on an as-needed basis, but running it for about 30 minutes at a time.
 
+The front rotary head needs to be replaced. I hit it with the mower. Also all the spray heads in the park strip need to be dug up and raised at least an inch.
+
 ### Part Numbers
 
 - Sprinkler controller: Rainbird PC-506
 
-### Current Setup (Summer '25)
+## Current Setup (Summer '25)
 
 - Zone 1 precipitation rate: 1/2" in 90 minutes
 - Zone 3 precipitation rate: 1/2" in 45 minutes (*need to verify)
@@ -43,10 +45,10 @@ There's another manual sprinkler in the front yard that helps with the grass by 
 - Zone 5: 45 minutes every 3 days
 
 ## Fall Settings
-*Need to update this with real settings used*
+*Ended up turning the sprinklers off early October due to rain*
 
 - Zone 1: 45 minutes every 3 days
-- Zone 3: 45 minutes every 3 days
+- Zone 3: 30 minutes every 3 days
 - Zone 4: 45 minutes every 3 days
+- Zone 5: 30 minutes every 3 days
 
-- Zone 5: 45 minutes every 3 days
